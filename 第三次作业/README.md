@@ -6,6 +6,8 @@
 ![图片](https://raw.githubusercontent.com/ZiChenHuang/computational_physics_N2015301020149/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%88%AA%E5%9B%BE.png)
 - [效果动态图点击这里](https://raw.githubusercontent.com/ZiChenHuang/computational_physics_N2015301020149/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/OverSpeed__clip.gif)
 ## 第二种方法
-- 通过与同学的交流，发现可以通过pygame进行实现。具体方法为：编写一个弹球的pygame游戏，通过把自己的名字图片作为球，实现了名字在屏幕上四处飞弹。
+- 通过与同学的交流，发现可以通过pygame进行实现。具体方法为：编写一个弹球的pygame游戏，通过把自己的名字图片作为球，实现了名字在屏幕上四处飞弹。(在此感谢柯南同学在编程方面的指导）！
 
 ！[又是一张图片](https://raw.githubusercontent.com/ZiChenHuang/computational_physics_N2015301020149/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E4%BB%A3%E7%A0%81.png)
+- [效果动态图点击这里](https://raw.githubusercontent.com/ZiChenHuang/computational_physics_N2015301020149/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E5%A5%BD%E5%93%A5%E5%93%A5.gif)
+
