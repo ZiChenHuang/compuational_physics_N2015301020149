@@ -9,4 +9,4 @@
 - 自己用How to think like a computer scientist – Learning with Python: Interactive Edition 2.0进行python语法练习
 - 编写一个python程序，在屏幕上用字母拼出自己的英文名字（本来想让大家拼自己的中文名字，但对有些同学来说不太公平^_^）
 ## [第三次作业](https://github.com/ZiChenHuang/computational_physics_N2015301020149/tree/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A)
-- 在第一次作业的基础上，尝试让自己的名字在屏幕上移动起来。
+- 在第二次作业的基础上，尝试让自己的名字在屏幕上移动起来。
