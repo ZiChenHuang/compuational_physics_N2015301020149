@@ -11,4 +11,4 @@
 ## [第三次作业](https://github.com/ZiChenHuang/computational_physics_N2015301020149/tree/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A)
 - 在第二次作业的基础上，尝试让自己的名字在屏幕上移动起来。
 ## 第四次作业
--本次作业为使用欧拉法解决第一章课后题的一道。
+- 本次作业为使用欧拉法解决第一章课后题的一道。
