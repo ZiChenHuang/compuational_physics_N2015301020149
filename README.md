@@ -15,3 +15,4 @@
 ## [第五次作业](https://www.zybuluo.com/2015301020149/note/914321)
 - 本次作业为problem 2.9
 - [蔡老师说要我们用pygame写一个发射炮弹的程序，或者至少要看到我们努力的痕迹，嗯，总之我努力过了](https://www.zybuluo.com/2015301020149/note/914457)
+## [第六次作业](https://www.zybuluo.com/2015301020149/note/920777)
